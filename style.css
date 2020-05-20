@@ -1,0 +1,17 @@
+body{
+  background-color: orange;
+  text-align: center;
+}
+
+td{
+  color: black;
+  text-align: center;
+}
+
+blockquote{
+  color: black;
+}
+
+h1{
+  color: green;
+}
